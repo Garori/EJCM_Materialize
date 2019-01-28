@@ -1,0 +1,36 @@
+
+
+body{
+  background-image: url("../img/background/literature.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+nav li{
+  font-family: 'Dosis', sans-serif;
+  margin-left: 2vh;
+  margin-right: 2vh;
+}
+
+section{
+  margin-top: 75vh;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+  margin-bottom: 0vh;
+}
+footer{
+  margin-top: 50vh;
+}
+.row{
+  margin-bottom: 0vh;
+}
+
+.icon_size{
+  height: 5vh;
+}
+footer span{
+  margin-left: 10vh;
+}
+footer img{
+  margin-left: 1vh;
+  margin-right: 1vh;
+}
